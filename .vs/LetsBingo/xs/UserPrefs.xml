@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{DCCF0B74-3E81-445C-A54D-7A4CE9B24909}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LetsBingo/Managers/PageService.cs">
+    <Files>
+      <File FileName="LetsBingo/Interface/IDeviceHelper.cs" />
+      <File FileName="LetsBingo/Interface/IPageService.cs" />
+      <File FileName="LetsBingo/App.xaml.cs" />
+      <File FileName="LetsBingo/ViewModel/BaseModels/RegisterLog.cs" />
+      <File FileName="LetsBingo/App.xaml" />
+      <File FileName="LetsBingo/Views/IntroPage.xaml.cs" />
+      <File FileName="LetsBingo/Views/MenuPage.xaml.cs" />
+      <File FileName="LetsBingo/Views/IntroPage.xaml" />
+      <File FileName="LetsBingo/Views/MenuPage.xaml" />
+      <File FileName="LetsBingo/Views/AutoGenerateBoardPage.xaml" />
+      <File FileName="LetsBingo/ViewModel/BaseModels/BasePageModel.cs" />
+      <File FileName="LetsBingo/ViewModel/IntroPageModel.cs" />
+      <File FileName="LetsBingo/ViewModel/MenuPageModel.cs" />
+      <File FileName="LetsBingo/ViewModel/Numbers.cs" />
+      <File FileName="LetsBingo.Android/MainActivity.cs" />
+      <File FileName="LetsBingo/Views/AutoGenerateBoardPage.xaml.cs" />
+      <File FileName="LetsBingo/ViewModel/AutoGenerateBoardPageModel.cs" />
+      <File FileName="LetsBingo/Managers/PageService.cs" Line="23" Column="6" />
+      <File FileName="LetsBingo/Managers/DataService.cs" />
+      <File FileName="LetsBingo/Interface/IDataCommunications.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LetsBingo" expanded="True">
+            <Node name="LetsBingo" expanded="True" selected="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LetsBingo.Android PreferredExecutionTarget="Android.RZCTA0AX2LW" AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.RZCTA0AX2LW" />
+</Properties>
